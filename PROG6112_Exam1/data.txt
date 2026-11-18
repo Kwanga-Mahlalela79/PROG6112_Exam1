@@ -1,0 +1,36 @@
+DATA LOG
+********************************************
+Customer Name: Jade Doe
+Product: Cozy Nights Monarch
+VAT: R 525.00
+COMMISSION: R 175.00
+TOTAL: R 4200.00
+********************************************
+
+DATA LOG
+********************************************
+Customer Name: Jade Doe
+Product: Cozy Nights Monarch
+VAT: R 525.00
+COMMISSION: R 175.00
+TOTAL: R 4200.00
+********************************************
+
+DATA LOG
+********************************************
+Customer Name: Joe Bloggs
+Product: Cozy Nights Monarch
+VAT: R 480.00
+COMMISSION: R 160.00
+TOTAL: R 3840.00
+********************************************
+
+DATA LOG
+********************************************
+Customer Name: Joe Bloggs
+Product: Cozy Nights Monarch
+VAT: R 480.00
+COMMISSION: R 160.00
+TOTAL: R 3840.00
+********************************************
+
